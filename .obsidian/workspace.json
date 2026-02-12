@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "541dc2817d307bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2038f826aebb0930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03a30d039eb40762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M1 - Introducción y Legalidad/M1-Recursos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M1-Recursos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e0a459216352760",
+    "type": "split",
+    "children": [
+      {
+        "id": "82c585685cdc2f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eeea2f5ea63d336",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "06709e253899063d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a190cafd537b8485",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59c6ca943b439118",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd8b74d99689867d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a442320a12a2f82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "M1/Enlaces.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Enlaces"
+            }
+          },
+          {
+            "id": "0e2d8b0dcce68808",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "M1/Enlaces.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Enlaces"
+            }
+          },
+          {
+            "id": "2b3962ce68dbc714",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f482989fc5726c80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "M1/Enlaces.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Enlaces"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "03a30d039eb40762",
+  "lastOpenFiles": [
+    "M2 - Reconocimiento y Fingerprinting/Recursos/Reconng_CheatSheet.pdf",
+    "M2 - Reconocimiento y Fingerprinting/Recursos",
+    "Recursos",
+    "carpeta sin título",
+    "M2 - Reconocimiento y Fingerprinting/Prácticas/P5-Escaneo evasivo en redes corporativas simuladas.pdf",
+    "M2 - Reconocimiento y Fingerprinting/Prácticas/P4-Fingerprinting de tecnologías con Wappalyzer y Nmap NSE.pdf",
+    "M2 - Reconocimiento y Fingerprinting/Prácticas/P3-Enumeración DNS con Amass y Subfinder.pdf",
+    "M2 - Reconocimiento y Fingerprinting/Prácticas/P2-Uso avanzado de Shodan y ZoomEye para reconocimiento pasivo.pdf",
+    "M2 - Reconocimiento y Fingerprinting/Prácticas/P1-OSINT con herramientas actuales (Recon-ng y SpiderFoot).pdf",
+    "M2 - Reconocimiento y Fingerprinting/Prácticas",
+    "M2 - Reconocimiento y Fingerprinting/Nueva carpeta con ítems/P5-Escaneo evasivo en redes corporativas simuladas.pdf",
+    "M2 - Reconocimiento y Fingerprinting/M2-Recursos.md",
+    "M3 - Explotación de Vulnerabilidades/M3-Recursos.md",
+    "M7 - Informe de Pentesting Profesional/M7-Recursos.md",
+    "M6 - Hardening y Mitigación/M6-Recursos.md",
+    "M5 - Análisis de Infraestructuras Empresariales/M5.md",
+    "M4 - Evasión y Post-explotación/M4.md",
+    "M3/M3.md",
+    "M2/M2.md",
+    "Entregas/M2/P3/M2/Captura de pantalla 2025-09-27 a las 7.38.02.png",
+    "Entregas/M2/P3/M2/Captura de pantalla 2025-09-27 a las 7.34.42.png",
+    "Entregas/M2/P3/M2/Captura de pantalla 2025-09-27 a las 7.31.03.png",
+    "Entregas/M2/P3/M2/Captura de pantalla 2025-09-27 a las 7.29.26.png",
+    "Entregas/M2/P3/M2/Captura de pantalla 2025-09-27 a las 7.13.25.png",
+    "Entregas/M2/Nueva carpeta con ítems/M2/Captura de pantalla 2025-09-27 a las 7.38.02.png",
+    "Entregas/M2/Nueva carpeta con ítems/M2/Captura de pantalla 2025-09-27 a las 7.34.42.png",
+    "Entregas/M2/Nueva carpeta con ítems/M2/Captura de pantalla 2025-09-27 a las 7.31.03.png",
+    "Entregas/M2/Nueva carpeta con ítems/M2/Captura de pantalla 2025-09-27 a las 7.29.26.png",
+    "Entregas/M2/Nueva carpeta con ítems/M2/Captura de pantalla 2025-09-27 a las 7.13.25.png",
+    "M1/M1.md"
+  ]
+}
